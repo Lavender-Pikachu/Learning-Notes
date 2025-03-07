@@ -24,7 +24,7 @@ Git
 ## git common command
 |command| description|
 |------- |---------|
-|git init | 在当前目录初始化一个新的Git仓库  |
+|git init .| 在当前目录初始化一个新的Git仓库  |
 |git status| 查看已修改但未暂存、暂存但未提交的文件 |
 |git branch| 查看当前工作所在的分支|
 |git checkout <branch_name>|切换到其他分支|

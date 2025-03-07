@@ -2,4 +2,4 @@
 
 ## 目录
 
-* [Git](/study/Git/Architecture)
+* [Git](/study/Git/Git)
